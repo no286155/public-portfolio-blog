@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "functions": {
+    "/about": {},
+    "/blog/[...slug]": {},
+    "/blog": {},
+    "/blog/page/[page]": {},
+    "/bucketlist": {},
+    "/project/[...slug]": {},
+    "/tags/[tag]": {},
+    "/tags": {}
+  }
+}

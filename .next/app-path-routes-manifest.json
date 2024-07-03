@@ -1,0 +1,17 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/portfolio/page": "/portfolio",
+  "/project/page": "/project",
+  "/blog/page": "/blog",
+  "/about/page": "/about",
+  "/bucketlist/page": "/bucketlist",
+  "/tags/page": "/tags",
+  "/api/newsletter/route": "/api/newsletter",
+  "/blog/[...slug]/page": "/blog/[...slug]",
+  "/tags/[tag]/page": "/tags/[tag]",
+  "/project/[...slug]/page": "/project/[...slug]",
+  "/blog/page/[page]/page": "/blog/page/[page]"
+}
